@@ -1,0 +1,13 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+.input-container {
+    display: flex;
+}
+
+.input-container div {
+    display: flex;
+    flex-direction: column; 
+}
